@@ -1,1 +1,3 @@
-#jQuery Tooltip plugin
+#jQuery Tooltip plugin 
+
+Edit from Stoqnov007
