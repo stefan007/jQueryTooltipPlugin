@@ -1,1 +1,1 @@
-jQuery Tooltip plugin
+#jQuery Tooltip plugin
