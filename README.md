@@ -2,7 +2,7 @@
 
 ## How to Use?
 
-jQuery Tooltip plugin depends on jQuery. Include them both in end of your HTML code:
+jQuery Tooltip plugin depends on jQuery. Include script *after* the jQuery library:
 
 ```html
 <script src="jquery.js" type="text/javascript"></script>
